@@ -6,3 +6,6 @@ title:  "Iris Data"
 Hannuh's **Plant Knowledge**
 
 Let's work with some data!
+
+![A Beautiful Flower](/assets/myflower.jpeg)
+
