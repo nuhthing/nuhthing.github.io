@@ -11,4 +11,4 @@ title: Blog
   {% endfor %}
 </ul>
 
-![A Beautiful Flower](/assets/myflower.jpeg)
+![A Beautiful Flower](/assets/thefreakingflower.png)
