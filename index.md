@@ -10,3 +10,5 @@ title: Blog
     </li>
   {% endfor %}
 </ul>
+
+![A Beautiful Flower](/assets/myflower.jpeg)
