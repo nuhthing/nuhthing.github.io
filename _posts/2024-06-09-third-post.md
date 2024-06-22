@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "All bout kale"
+title:  "kale"
 ---
 
-kale is green, sometimes purple
-it makes flowers and beans!!
 
