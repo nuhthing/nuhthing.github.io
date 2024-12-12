@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LA Fleur
+title: hannuh and FLOWERS
 ---
 <ul>
   {% for post in site.posts %}
