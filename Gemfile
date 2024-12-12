@@ -1,2 +1,2 @@
-gem "jekyll-paginate"
-gem "jekyll-archives"
+#gem "jekyll-paginate"
+#gem "jekyll-archives"
